@@ -34,3 +34,11 @@
     gap: 10px;
     box-sizing: border-box;
 }
+
+.sidebar-logo-brand {
+    background-color: #3b82f6;
+    flex: 0.3;
+    height: 40px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
