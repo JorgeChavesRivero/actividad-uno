@@ -1,0 +1,8 @@
+.body-wrapper {
+    margin: 0;
+    padding: 20px;
+    background-color: #0b1120; /* Slate 950 */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    height: 100vh; overflow: hidden;
+}
