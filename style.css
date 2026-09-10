@@ -42,3 +42,11 @@
     box-sizing: border-box;
     border-radius: 6px;
 }
+
+.sidebar-logo-text {
+    background-color: #334155;
+    flex: 0.7;
+    height: 40px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
